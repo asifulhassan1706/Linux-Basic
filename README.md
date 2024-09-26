@@ -1,2 +1,1 @@
-# Linux-Basic
-# Linux-Basic
+pwd -> Present working Directory
