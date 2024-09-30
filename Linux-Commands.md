@@ -1,1 +1,0 @@
-pwd -> Present working Directory
